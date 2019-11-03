@@ -3,5 +3,6 @@ public class mydemo {
         System.out.println("hello world!");
         System.out.println("second statement!");
 
+        System.out.println("third statement");
     }
 }
